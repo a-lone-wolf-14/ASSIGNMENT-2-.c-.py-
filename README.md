@@ -1,0 +1,1 @@
+Assignment-2, I was given is same as to write codes in C programming language for pattern outputs (see in my pyramiids repository README.md), I did them in Python too and uploaded them in my pyramids(.c)(.py) repository
